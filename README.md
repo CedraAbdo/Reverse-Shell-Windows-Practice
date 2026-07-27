@@ -98,6 +98,9 @@ Immediately after running the payload, a Meterpreter session was opened on the K
 > ![Meterpreter Session](screenshots/meterpreter-session.png)
 > Example:
 > ![Webcam or Screenshot Result](screenshots/webcam-result.png)
+> Example:
+> ![payload file]()
+
 
 ---
 

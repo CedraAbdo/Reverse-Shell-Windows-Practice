@@ -70,12 +70,15 @@ Immediately after running the payload, a Meterpreter session was opened on the K
 ---
 
 ## 8. 📸 Proof of Success (Screenshots)
+
 > Example:
 > ![Meterpreter Session](screenshots/meterpreter-session.png)
+
 > Example:
 > ![Webcam or Screenshot Result](screenshots/webcam-result.png)
+
 > Example:
-> ![payload file]()
+> [📄 Download Payload File (payloadfile.bat)](./payloadfile.bat)
 
 
 ---
